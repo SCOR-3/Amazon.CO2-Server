@@ -2,9 +2,9 @@
 
 This project serves as a very slim backend designed to work with Amazon.CO2 on Demand's sample [website](https://heroic-valkyrie-d7ef27.netlify.app/). This server receives purchase requests issued by the sample applications, and forwards these requests to Amazon.CO2 client site.
 
-The server itself is implemented in [nodeJS](https://nodejs.org/en/about). Even if you are not familiar with the language do not worry, as the code has been extensively documented. The deployed backend server can be accessed using this ([link](https://graceful-foal-hose.cyclic.app)) .
+The server itself is implemented in [nodeJS](https://nodejs.org/en/about). Even if you are not familiar with the language do not worry, as the code has been extensively documented. The deployed backend server can be accessed using this [link](https://graceful-foal-hose.cyclic.app).
 
-The server was deployed by one of the contributors from the remote repository. The original repository can be accessed using [link](https://github.com/chinmayagarwal03/Amazon.CO2-Server)
+### The server was deployed by one of the contributors from the remote repository. The original repository can be accessed using  this [link](https://github.com/chinmayagarwal03/Amazon.CO2-Server) .
 
 The server logs all API requests it performs to the terminal, so you can see what's going on even without diving into the code.
 
