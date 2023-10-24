@@ -1,5 +1,4 @@
 # Amazon.CO2-Server
-# Sample App Backend
 
 This project serves as a very slim backend designed to work with Amazon.CO2 on Demand's sample [website](https://heroic-valkyrie-d7ef27.netlify.app/). This server receives purchase requests issued by the sample applications, and forwards these requests to Amazon.CO2 client site.
 
