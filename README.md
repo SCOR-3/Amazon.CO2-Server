@@ -24,9 +24,6 @@ npm install
 
 These commands would install the project's dependencies. 
 
-```
-bundle install
-```
 
 The server is now ready to run. Simply point a terminal to the project's folder and run:
 
