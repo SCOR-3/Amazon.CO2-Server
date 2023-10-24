@@ -8,7 +8,7 @@ The server itself is implemented in [nodeJS](https://nodejs.org/en/about). Even 
 
 The server logs all API requests it performs to the terminal, so you can see what's going on even without diving into the code.
 
-## Integration with the Amazon.CO2 on Demand API
+## Integration with the Amazon.CO2 client site
 This sample backend interacts directly with Amazon.CO2's on Demand API, specifically for the purpose of authorizing and capturing orders. You can read more about the API [here](https://documenter.getpostman.com/view/21719363/2s9YRCVAPa#7c92258f-98d2-4b20-a60a-1265bc639134).
 
 ## Running the server
